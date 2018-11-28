@@ -1,7 +1,7 @@
 random-string.sh
 ================
 
-Generate a random string characters.
+#### Generate a random string characters.
 
 length and the used characters are configurable.
 
